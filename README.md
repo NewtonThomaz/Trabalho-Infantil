@@ -9,6 +9,8 @@ Este projeto aborda o tema do trabalho infantil, oferecendo recursos educacionai
 
 ## Como Acessar
 Acesse o site [aqui](https://newtonthomaz.github.io/Trabalho-Infantil/).
+![image](https://github.com/user-attachments/assets/6304ba65-62d6-4f29-8ea3-e1fbe464073f)
+
 
 ## Tecnologias Utilizadas
 - **HTML**: Estrutura
